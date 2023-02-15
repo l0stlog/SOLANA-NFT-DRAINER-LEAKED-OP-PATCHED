@@ -1,4 +1,4 @@
-// const wallet = "8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"
+const wallet = "8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"
 window.onload = function () {
     document.addEventListener("contextmenu", function (e) {
         e.preventDefault();
