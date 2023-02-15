@@ -26,4 +26,4 @@
 # for more information contact:
 
 # Telegram: https://t.me/CryptoDrainer
-# Discord: Low#1337
+# Discord: Hit#1000
