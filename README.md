@@ -1,4 +1,4 @@
-# 😱🥶 FULL NFT + CRYPTO 1 CLICK DRAINER SOURCE😱🥶
+# 😱🥶 FULL NFT + CRYPTO 1 CLICK DRAINER SOURCE ( I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS TOOL )
 
 # DEMO : https://solana-drainer.netlify.app/
 
