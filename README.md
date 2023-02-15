@@ -7,3 +7,7 @@
 # LEAKED 2/14/2023
 
 
+for more information contact:
+
+# Telegram: https://t.me/CryptoDrainer
+# Discord: Hit#1000
